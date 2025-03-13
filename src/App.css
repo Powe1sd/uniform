@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+/* hero jsx */
+.hero {
+  background-color: #111;
+  color: #fff;
+  padding: 100px 0;
+}
+
+.hero h1 {
+  color: red;
+}
+
+/* Agrega aquí tus estilos personalizados */
