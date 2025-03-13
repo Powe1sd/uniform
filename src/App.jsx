@@ -4,7 +4,6 @@ import Hero from "./components/Hero";
 import "./App.css";
 import Features from "./components/Features";
 import Footer from "./components/Footer";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
